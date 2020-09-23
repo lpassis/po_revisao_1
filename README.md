@@ -3,6 +3,6 @@
 
 
 ### Instruções para uso:
-#### As questões estão separadas por pastas (Exemplo: Questão 01 -> pasta com nome: ex01 e assim por diante), utilizar NetBeans para dar build no projeto.
+#### As questões estão separadas por pastas (Exemplo: Questão 01 -> pasta com nome: Ex01 e assim por diante), utilizar NetBeans para dar build no projeto.
 
 
